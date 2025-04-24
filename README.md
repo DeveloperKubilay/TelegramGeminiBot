@@ -1,6 +1,8 @@
 
 # 🤖 Telegram AI Bot 🚀
 
+![Demo](https://i.imgur.com/RSR7U8d.gif)
+
 Welcome to the ultimate **Telegram AI Bot** powered by **Google's Generative AI** & **KubitDB**! 💥
 
 This bot connects to **Telegram** and integrates with **Google Generative AI** to provide personalized chat experiences. It's like having your own AI-powered buddy right in your Telegram chats! 🤖✨
