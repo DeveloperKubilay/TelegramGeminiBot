@@ -1,0 +1,16 @@
+{
+    "detailLevel": "medium",
+    "technicalJargon": "high",
+    "codeQuality": "excellent",
+    "provideCodeSamples": true,
+    "explainGeneratedCode": true,
+    "persona": "professional",
+    "tone": "explanatory",
+    "speed": "medium",
+    "safety": {
+        "explicitContent": "medium",
+        "hateSpeech": "low",
+        "harassment": "low",
+        "dangerousContent": "low"
+    }
+}
